@@ -5,6 +5,6 @@
     "\\src\\app",
     "\\src\\app\\heroes"
   ],
-  "SelectedNode": "\\src\\app\\mock-heroes.ts",
+  "SelectedNode": "\\src\\app\\heroes\\heroes.component.html",
   "PreviewInSolutionExplorer": false
 }
